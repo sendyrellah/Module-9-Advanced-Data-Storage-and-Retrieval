@@ -1,4 +1,4 @@
-# SurfsUp Challenge
+# Surf's Up Challenge
 
 ## Overview of Project
 A study is being conducted on the investor who wants to establish a surf-based business in Hawaii, wanting to learn about the feasibility of the business in this region. In order to establish a surf-based business in this region, the climate must be favorable, and the study includes data on the climate of the Hawaiian region.
